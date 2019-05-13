@@ -278,11 +278,15 @@ adj. 父亲的；得自父亲的；父亲般的
 
 ## vaunt
 
+/vɔːnt/
+
 * v.自吹、吹嘘、夸大
 * vaun→vain
 adj. 徒劳的；自负的；无结果的；无用的
 
 ## plague
+
+/pleɪg/
 
 * n.灾难、瘟疫
   * epidemic:
@@ -325,7 +329,7 @@ vi. 解释；导致；报账
 * As recently as 1995, the top four railroads accounts for under 70 percent of the total ton-miles moved by rails.
 近至1995年，最顶尖的四个铁路公司占据了总的铁路运输量不到70%。
 
-### “占...比例”的表达方式
+### “占...比例”
 
 * account for/make up
 * **According to the latest statistics,** smokers **account for/make up** 20 **percent of** the world's population. **This accounts for why** so many governments **are taking more rigid measures to** control smoking.
@@ -385,7 +389,7 @@ OTC：非处方的
 
 ## attitude
 
-* 态度
+* n. 态度；看法；意见；姿势
 * altitude
 n.高度海拔
 * aptitude：天资
@@ -406,9 +410,9 @@ n.高度海拔
 
 ## enhance
 
-* v。提高，增强
+* v.提高，增强
 
-### 增加、提高的表达
+### "增加、提高"
 
 * enhance/strengthen/boost/heighten/improve
 * Interpersonal links can be enhanced through the media.
@@ -434,14 +438,14 @@ n.高度海拔
 
 ## worthwhile
 
-* adj。值得做的，值得花时间的
+* adj.值得做的，值得花时间的
 * worth doing sth
 * while，然而，当
 * for a while，一会
 
 ## prevail
 
-* v。盛行，流行
+* v.盛行，流行
 * vail，价值，pre，价值领先、价值优先的才能盛行流行
 * 流行的
   * prevailing
@@ -449,19 +453,19 @@ n.高度海拔
 
 ## deserve
 
-* v。值得，应当，应受
+* v.值得，应当，应受
 * you deserve it
 * Lonely elderly people deserve more attention
 
 ## wallet
 
-* n。钱包
+* n.钱包
 * -val，-wal-
 
 ## equivalent
 
-* adj。等价的、等同的
-* n。等价物
+* adj.等价的、等同的
+* n.等价物
 * be equivalent to
 
 ### 副词+形容词
@@ -470,7 +474,7 @@ n.高度海拔
 
 ## evaluate
 
-* v。评价、评估
+* v.评价、评估
 * evaluate assets
 评价/评估资产
 * rate：
@@ -482,7 +486,7 @@ n.高度海拔
 
 ## valid
 
-* adj。有效的、正当的
+* adj.有效的、正当的
 * invalid
 * invalidate：使无效、使失效
 
@@ -506,19 +510,19 @@ n.高度海拔
 
 ## patent
 
-* n 专利
-* v 申请专利
+* n.专利
+* v.申请专利
 
 ## reinforce
 
-* v 增援，加强
+* v.增援，加强
 * reinforce social solidarity
 增强社会团结/稳定
 
 ### force
 
-* n 力量，实力
-* v 强迫、迫使
+* n.力量，实力
+* v.强迫、迫使
 force sb to do sth
 * 军队
 
@@ -534,7 +538,7 @@ force sb to do sth
 
 ## enforce
 
-* v 生效，实施
+* v.生效，实施
 
 ### 执行、实施、做
 
@@ -547,15 +551,15 @@ force sb to do sth
 
 ## decade
 
-* n 十年，十
+* n.十年，十
 * decades：数十年
 * score：
-  * n 分数
-  * v 得分
-  * n 二十
+  * n.分数
+  * v.得分
+  * n.二十
   87年前：four scores and seven years ago
   * fold：
-    * v 折叠、重合、倍
+    * v.折叠、重合、倍
     * eightfold：八倍
   * double
   * triple
@@ -563,7 +567,7 @@ force sb to do sth
 
 ## biology
 
-* n 生物学
+* n.生物学
 
 ### bi-，di-、dou-
 
@@ -590,8 +594,8 @@ force sb to do sth
 
 ## benefit
 
-* n 利益，好处
-* v 有利于，受益，获益
+* n.利益，好处
+* v.有利于，受益，获益
 * profit
 * benefit sb
 * benefit from
@@ -648,6 +652,8 @@ Indulging kids may be harmful/noxious and barely profitable/helpful over a long 
   * n.手册
 
 ## facile
+
+/'fæsaɪl; -sɪl/
 
 * a.容易（做）的
 * fac-：做
