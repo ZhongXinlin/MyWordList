@@ -383,4 +383,366 @@ OTC：非处方的
 * accountant：会计
 * accounting：会计学
 
+## attitude
+
+* 态度
+* altitude
+n.高度海拔
+* aptitude：天资
+* Your attiltude, not your aptitude, will determine your altitude.
+
+### -itude
+
+* 度
+* gratitude
+* longitude
+* latitude level 水平、平面：纬度
+
+### -alt、-anc
+
+* 高
+* 老
+* ancient
+
+## enhance
+
+* v。提高，增强
+
+### 增加、提高的表达
+
+* enhance/strengthen/boost/heighten/improve
+* Interpersonal links can be enhanced through the media.
+
+## available
+
+* 可利用的、现成的；有空的、单身的
+* 形容词作后置定语（常用法）
+  * money available
+  * information available
+
+### value
+
+* -vail
+* -val
+* equivalent
+  * equi
+  * val
+  * ent
+* evaluate
+  * 使价值表现出来
+  * 使评估、使评价
+
+## worthwhile
+
+* adj。值得做的，值得花时间的
+* worth doing sth
+* while，然而，当
+* for a while，一会
+
+## prevail
+
+* v。盛行，流行
+* vail，价值，pre，价值领先、价值优先的才能盛行流行
+* 流行的
+  * prevailing
+  * prevalent
+
+## deserve
+
+* v。值得，应当，应受
+* you deserve it
+* Lonely elderly people deserve more attention
+
+## wallet
+
+* n。钱包
+* -val，-wal-
+
+## equivalent
+
+* adj。等价的、等同的
+* n。等价物
+* be equivalent to
+
+### 副词+形容词
+
+* 副词一般翻译为非常、很、太
+
+## evaluate
+
+* v。评价、评估
+* evaluate assets
+评价/评估资产
+* rate：
+  * 率；
+  * 价格、费用；
+  * 级别、等级；
+* estimate：估计
+* assess，asset
+
+## valid
+
+* adj。有效的、正当的
+* invalid
+* invalidate：使无效、使失效
+
+### -id
+
+* 的
+
+## publish
+
+* finish+public：完成并公之于众：出版、发行
+* publicize：宣传
+
+## permanent
+
+* forever
+* eternal
+* perpetual
+* everlasting
+* constant
+经常性的、永久的
+
+## patent
+
+* n 专利
+* v 申请专利
+
+## reinforce
+
+* v 增援，加强
+* reinforce social solidarity
+增强社会团结/稳定
+
+### force
+
+* n 力量，实力
+* v 强迫、迫使
+force sb to do sth
+* 军队
+
+### -arity
+
+* 复合后缀，词性看最后
+* ar+ity
+
+### -ation
+
+* -ate+ion，e不发音
+* foundation
+
+## enforce
+
+* v 生效，实施
+
+### 执行、实施、做
+
+* enforce
+* conduct
+* execute
+* implement
+* perform
+* carry out
+
+## decade
+
+* n 十年，十
+* decades：数十年
+* score：
+  * n 分数
+  * v 得分
+  * n 二十
+  87年前：four scores and seven years ago
+  * fold：
+    * v 折叠、重合、倍
+    * eightfold：八倍
+  * double
+  * triple
+  * quadruple：quarter
+
+## biology
+
+* n 生物学
+
+### bi-，di-、dou-
+
+* 两个
+  * dioxide
+  * bicycle
+* 生
+  * -bi-
+  * vi
+  * viv
+  vivid：生动的、栩栩如生的
+  * vit
+  vital：生命攸关的：重要的
+  vigor：活力，生命力
+  vigorous：有生命的、有活力的
+  viagra：吃下去有生命有活力的：万艾可，伟哥
+  * biography：写生物，写人生：传记
+    * autobiography：自传
+
+### -logy
+
+* psychology
+* sociology
+
+## benefit
+
+* n 利益，好处
+* v 有利于，受益，获益
+* profit
+* benefit sb
+* benefit from
+* Example of benefits or costs of the current concentration wave are scanty.
+当前兼并浪潮是利是弊的例子还不多
+  * concentrate：v.集中；合并、兼并；
+  * scarce=scanty：罕见的、稀少的
+
+### good、well、bene
+
+* 同一种模式，好
+
+### -fact、-fect、-fict、-fic、-fit
+
+* 做
+
+### odd
+
+* adj.奇怪的、古怪的；奇数的；临时的
+odd number；
+odd worker；
+* n.odds：怪事情；**可能性**=possibility/chance
+* **What is odd is that** some still **argue** that we can benefit/profit nothing from cultural exchange.
+  奇怪的是还有人认为我们不可能从文化交流中获得好处。
+  * argue：认为
+
+## beneficial
+
+* a 有好处，有益的
+* Showing love is beneficial and **hardly detrimental** to both the benefactor and receiver in the long run/term.
+  从长远来看，施予爱心对于爱心的接受者和发出者来说都是有益无害的。
+  * sth is beneficial and hardly detrimental to：有益无害的
+  * detrimental：有害的
+
+### “从长远来看”
+
+* in the long run/term, over a long range
+* 溺爱孩子从长远来看可能是有害无益的
+Spoiling child may be deetrimental and hardly benefical in the long run/term.
+Indulging kids may be harmful/noxious and barely profitable/helpful over a long range.
+  * detrimental/harmful/noxious:有害的
+  * hardly/barely/rarely
+
+## manufacture
+
+* n.制造、制造业；v.制造、捏造；手工制作
+
+### -manu、-man、-main
+
+* 手
+* palm：手掌
+* manual：
+  * adj.手的、手工的
+  * n.手册
+
+## facile
+
+* a.容易（做）的
+* fac-：做
+* -ible→-ile：b不发音：可以的、容易的
+  * -eble
+  * -able
+* facility：
+  * 容易，便利
+  * 工具，设施
+* facilitate：使容易、使便利、促进
+
+### “使...便利”
+
+我非常感谢你们的努力和服务，它们使我们的学习和生活变得便利。
+I do appreciate your efforts and valuable services which **facilitate** our school life and study.
+
+* 小作文，感谢信
+
+## faculty
+
+* 能力、才能；全体员工（教员）
+* faculty of speech
+* faculty teaching hours
+
+### -ul-、-u-、-o-、-ol-
+
+* 连接词根后缀
+
+## affect
+
+* v 影响
+* affection：n.影响
+
+## infection
+
+* n.感染、传染
+* bacterial infections
+
+## defect
+
+* n.缺陷、缺点
+* de-：下；相反的、不好的、否定的；加强语气；
+
+### per-
+
+* 彻底、贯穿、一直
+* perfect
+
+## artificial
+
+* adj.人造的、虚假的
+* art：技艺技术；fic：做：用人类的技术做的
+* artificial intelligence
+* artificial smile
+* artificial organ：人造器官
+* fake：假
+fac：做
+* fiction：虚假、虚构
+fict：做
+* genuine：真
+  gen：生，生下来就有的，真；
+  genuine goods：正品、行货
+
+## feasible
+
+* adj.可行的
+* feas→fact：做
+* feasibility：可行性
+
+## feature
+
+* face→feat：n.容貌；特色、特征；
+* 专题节目；
+* v.以...为特写
+* a magazine feature
+* geological features：地理特征
+  * geology：地质学
+  * geography：地理
+
+## deficient
+
+* adj.不足的、缺乏的
+* defect：不好，做→做的不好→n缺陷
+* defective
+adj. 有缺陷的；不完美的
+* deficient
+adj. 不足的；有缺陷的；不充分的
+* deficiency
+n. 缺陷，缺点；缺乏；不足的数额
+* deficit
+n. 赤字；不足额
+
+## proficient
+
+* adj.精通的,熟练的；
+* -- in sth
+
 [toc]
