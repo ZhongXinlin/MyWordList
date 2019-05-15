@@ -4,11 +4,14 @@
 
 ## associate
 
-* v.社交、结交、联系
+* n. 同事，伙伴；关联的事物
+adj. 副的；联合的
+vt. 联想；使联合；使发生联系
+vi. 交往；结交
 * -sociate→social：社会的；融入社会：社交
 * associate professor：副教授；副的，准的；
   * vice president：副主席、副总统
-  * deputy：代理的、副的；
+  * deputy：adj./n. 代理的、副的；
     * deputy manager：副经理
     * -- minister：副部长
     * -- mayor：代理市长；
@@ -52,6 +55,7 @@
   content：n。内容、目录
   adj。满足的：be content with
 * tendency
+n. 倾向，趋势；癖好
 
 ### 故意的
 
