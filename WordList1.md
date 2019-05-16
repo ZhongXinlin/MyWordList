@@ -568,10 +568,15 @@ v.进化
 
 * v.旋转
   * rotate
+  vt. 使旋转；使转动；使轮流
+  adj. [植] 辐状的
+  vi. 旋转；循环
   * roll
+  v. 滚动；翻身；
+  n. 卷，卷形物；柱形物
 * n.revolution：反转、颠覆、革命
 * adj.revolutionary
-* Galileo's greatest glory was that in 1609 he was the first person to tuen the newly invented telescope on the heavens to prove that the planets **revolve around** the sun rather than around the Earth.
+* Galileo's greatest glory was that in 1609 he was the first person to turn the newly invented telescope on the heavens to prove that the planets **revolve around** the sun rather than around the Earth.
 伽利略的伟大之处在于在1609年，他是把最新发明的望远镜对准天空，证实行星是围绕太阳而不是围绕地球运转的第一人。
 
 ## switch
