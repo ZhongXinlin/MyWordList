@@ -205,6 +205,8 @@ vt. 归因于；归咎于
 
 ## discern
 
+/dɪ'sɜːn/
+
 * vt. 觉察出；识别；了解；隐约看见
 vi. 辨别
 * dis-:不同：注意到不同的东西：识别、辨别
@@ -215,7 +217,7 @@ vi. 辨别
 * vi. 区别；辨别
   vt. 歧视；区别；辨别
 * 用不同的方式对待：歧视、区别；
-* rate discrimination
+* racial discrimination
 * discrimination against sb.
 
 ## economic
@@ -241,6 +243,8 @@ vi. 运行；活动；
 * n.后缀
 * 少数v.后缀
 * mention
+  n. 提及，说起
+vt. 提到，谈到；提及，论及；说起
 
 ## individual
 
