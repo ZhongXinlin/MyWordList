@@ -177,10 +177,13 @@ vt. 归因于；归咎于
   * credit
   vt.把…归给，归功于；
 * describe
-vt. 描述，形容；描绘
+  vt. 描述，形容；描绘
 
 ### graph
 
+* biography
+  /baɪ'ɒgrəfɪ/
+  n. 传记；档案；个人简介
 * telegraph
   * tele：远
     * telescope
@@ -198,6 +201,7 @@ vt. 描述，形容；描绘
 * adj. 有关的；关心的
 * the person concerned：相关的人
 * Please inform the person concerned to come to the party.
+* 常作后置定语
 
 ## discern
 
@@ -354,6 +358,7 @@ v. 估计，估量；判断，评价
 * dictate：口述
 * dictation：听写
 * contradict：反着说：矛盾、唱反调；
+* predict
 
 ## addict
 
@@ -361,3 +366,269 @@ v. 估计，估量；判断，评价
 v. 使沉迷；使上瘾
 * addicted to gambling
 * be addicted to/ indulg in
+
+## contradict
+
+* vt. 反驳；否定；与…矛盾；与…抵触
+vi. 反驳；否认；发生矛盾
+* -dict:说；contra：counter；
+* contradiction
+n. 矛盾；否认；反驳
+* contradictory
+n. 对立物；矛盾因素
+adj. 矛盾的；反对的；反驳的；抗辩的
+* contradict with oneself：自相矛盾
+
+## indicate
+
+* in：内部；在里面暗着说：暗示
+* vt. 表明；指出；预示；象征
+* indication
+  n. 指示，指出；迹象；象征
+  an indication of
+* indicator
+  n. 指标，标志，迹象； 指示器；
+  economic indicator:经济指标
+* indicative
+  n. 陈述语气；陈述语气的动词形式
+  adj. 象征的；指示的；表示…的
+
+## index
+
+* n. 指标；指数；索引；指针
+vt. 指出；编入索引中
+vi. 做索引
+* commodity price index：商品价格指数
+
+### indi、inde
+
+* 指☞
+* indicate：指出
+* index：指数
+* indice：指标
+
+## dedicate
+
+* de-:下；dic-：说；devote
+* vt. 致力；献身；题献
+* dedicate/contribute A to B：把A贡献给B
+* A dedicate/contribute to B：A导致/促成/有助于B
+* Then it sponsors lots of symposiums and a credibility project (which are) dedicated/devoted(后置定语) to wondering why customers are annoyed and fleeing in large numbers.
+然后，它赞助了大量的研讨会和一次信任度调查，用于搞清楚为什么众多顾客掉头而去。
+
+### vot、voc
+
+* 说，voice
+
+## devote
+
+* v. 致力于，奉献于；把……用于，作……专用；降祸于，诅咒
+* devotion
+  n. 献身，奉献；忠诚；热爱
+* devoted、committed
+  adj. 献身的；忠诚的
+
+## “贡献”
+
+* devote、dedicate
+* An increasing number of people are joining Non-Governmental Organizations(NGO) to -- their time and money to charitable causes.
+越来越多的人加入到非政府组织中去，把他们的时间和金钱贡献给慈善事业。
+  * cause:事业
+  * a misleading cause: 误导人的事业
+
+## delicate
+
+* delicate situation：微妙的情形
+* delicate tasks：精细的（琐碎的）任务
+* subtle
+  adj. 微妙的；精细的；敏感的；狡猾的；稀薄的
+* fragile
+  adj. 脆的；易碎的
+
+### deli-
+
+* （东西）好；
+* delicious：（食物）美味的（好）；
+
+## expertise
+
+* n. 专门知识；专门技术；专家的意见
+* specialty
+  n. 专业，专长；特产；特性；招牌菜
+  adj. 特色的；专门的；独立的
+* experiment
+  实验
+* experience
+  经验
+* expert
+  n. 专家；行家；能手
+  adj. 熟练的；内行的；老练的
+  vt. 当专家；在…中当行家
+
+## plain
+
+* n. 平原；无格式；朴实无华的东西
+adj. 平的；简单的；朴素的；清晰的
+adv. 清楚地；平易地
+* flat、-plat、-plain
+* platform
+* plane
+* plain nasty：肮脏的
+  * nest→nasty：鸟巢→脏；
+* explain
+  * ex-：向外。出来；plain：清楚的；
+
+## interpret
+
+* pret→plain；
+* vi. 解释；翻译
+vt. 说明；口译
+
+## community
+
+* 界、领域
+* comm→common；unity：团体
+* n. 社区；群落；共同体；团体
+* scientific community
+  科学界/领域
+* commodity
+  * com：共同；mod；尺寸；共同的尺寸/模具生产出来的东西：商品
+  * goods
+  * commodity-price inflation：通货膨胀
+  * heavy bulk commodities：大宗商品；
+
+### -mod-、-med-、meas-
+
+* measure
+* 尺寸
+
+## modify
+
+* vt. 修改，修饰；更改
+vi. 修改
+* modification
+* **Furthermore**, humans have the ability to modify the environment in which they live, thus **subjecting** all other life forms **to** their own peculiar ideas and fancies.
+而且，人类还有能力改造自己的生存环境，从而让所有其他形态的生命服从人类自己独特的观点和想象。
+  * subject sb. to sth.：使...服从
+
+## moderate
+
+* adj. 稳健的，温和的；适度的，中等的；有节制的
+vt. 节制；减轻
+vi. 变缓和，变弱
+
+## modest
+
+* adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的
+* do some modest belt-tightening：适当的勒紧裤腰带
+
+## accommodate
+
+* vi. 适应；调解
+vt. 容纳；使适应；供应；调解；提供住宿；
+* accommodation
+  n. 住处，膳宿；调节；和解；预订铺位
+
+## “给...提供...”
+
+* provide/supply/furnish sb with sth.
+* offer sb sth
+* The Internet -- us with a new platforom of associating with other people within doors.
+网络给我们提供了一个足不出户便可以与人交际的全新平台。
+
+## provided
+
+* conj. 假如；倘若
+* Provided that there is enough money, I would have married her.
+要是当年够有钱，早就抱得美人归。
+
+## provision
+
+* n. 规定；条款；准备；供应品
+vt. 供给…食物及必需品
+* legal provision
+  * 法律条款、条文
+
+## behalf
+
+* n. 代表；利益
+* behave
+* on (the) behalf of
+
+## observe
+
+* vt. 观察；遵守；说；注意到；评论
+vt. 庆祝
+vi. 观察；说；注意到；评论
+* observe to the law
+  遵守法律
+* "Their capacity for tolerating stress may even be greater than men's," she observes.
+  “她们忍受压力的能力可能比男性还要强”，她说道/认为。
+
+## witness
+
+* n. 证人；目击者；证据
+vt. 目击；证明；为…作证
+vi. 作证人
+* wit-：看
+
+### -wit、-vit、-vis
+
+* 看
+* visit
+  * it：走；
+  * exit
+* visible
+n. 可见物；进出口贸易中的有形项目
+adj. 明显的；看得见的；现有的；可得到的
+* invisible
+* vision
+  n. 视力；美景；眼力；幻象；想象力；
+  vt. 想象；显现；梦见
+* revise
+  n. 修订；校订
+vi. 修订；校订；复习功课
+vt. 修正；复习；校订
+* visual
+  adj. 视觉的，视力的；栩栩如生的
+* providence
+  n. 天意；深谋远虑
+* provident
+  adj. 节俭的；有先见之明的；顾及未来的
+
+## prudent
+
+* adj. 谨慎的；精明的；节俭的
+
+## supervise
+
+* v. 监督；管理；指导；主管；照看
+* In dealing with the issue and other things alike, in fact, not sufficient value is placed upon publicity/guidance and education/supervision, althoung we may have come to realize the significance of (v-ing) sth.
+在处理这个问题和其他类似问题的时候，实际上，并没有足够重视宣传/引导和教育/监管，尽管我们已经开始意识到...的重要性。
+
+## superior
+
+* n. 上级，长官；优胜者，高手；长者
+adj. 上级的；优秀的，出众的；高傲的
+* superior to:比...高级
+* inferior
+n. 下级；次品
+adj. 差的；自卑的；下级的，下等的
+
+## probe
+
+* n. 探针；调查
+vi. 调查；探测
+vt. 探查；用探针探测
+* prove
+  vi. 证明是
+vt. 证明；检验；显示
+* probe into sth
+
+## approve
+
+* ap：to；
+* vi. 批准；赞成；满意
+vt. 批准；赞成；为…提供证据
+* pool resources：共享资源
+  * pool：v.共享，放在一起共用；
